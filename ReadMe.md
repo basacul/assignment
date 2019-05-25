@@ -4,4 +4,4 @@ This dapp allows to interact with a deployed contract through the web front end 
 
 Unfortunately, the user needs to refresh the site such that the block number of the sent messages will be displayed. This minor issue will be resolved in a different project named Mana enlisted in my repositories.
 
-To use the repository simply download or fork this project. In the terminal you can simply go to the folde "assignment" and run __node app.js__. The dapp runs in http://localhost:4500.
+To use the repository simply download or fork this project. In the terminal you can simply go to the folder "assignment" and run __node index.js__. The dapp runs in http://localhost:4500.
